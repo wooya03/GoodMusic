@@ -1,0 +1,88 @@
+#info td {
+  padding-left: 30px;
+  font-size: 14px;
+}
+
+#info font a {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#info2 td {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+#info2 font {
+  color: #262626;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#info2 a {
+  font-size: 14px;
+}
+
+#table_set {
+  border-top: 2px solid #ff7e50;
+  border-bottom: 1px solid #9b9ca0;
+}
+
+#myfont {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+#myfont2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+
+#myfont3 {
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+#font24 {
+  color: #262626;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#font16 {
+  color: #262626;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#font14 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#mm a {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#list {
+  border-top: 1px solid #e1e1e1;
+}
+
+#list font {
+  color: #262626;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#list a {
+  font-size: 14px;
+}
+
+#list td {
+  padding-top: 10px;
+  padding-left: 30px;
+}

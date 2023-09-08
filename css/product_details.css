@@ -1,0 +1,42 @@
+/* product_details.css */
+/* 상품 정보 컨테이너 스타일 */
+.product-details {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* 상품 이미지 스타일 */
+.product-image img {
+  width: 100%;
+  height: auto;
+}
+
+.product-name {
+  font-size: 40px;
+}
+/* 상품 설명 스타일 */
+.product-description {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* 상품 가격 스타일 */
+.product-price {
+  font-size: 18px;
+  margin-bottom: 20px;
+  text-decoration: line-through;
+  color: #a2a2a2;
+  text-align: center;
+}
+
+.product-sale_price {
+  font-size: 25px;
+  text-align: center;
+}
+.product-ratio {
+  font-size: 60px;
+  color: red;
+  text-align: center;
+}
